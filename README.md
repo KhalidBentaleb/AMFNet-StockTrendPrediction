@@ -16,6 +16,9 @@ The architecture combines:
 
 AMFNet is evaluated on multiple stock tickers with daily OHLCV data and sentiment matrices, and benchmarked with both **classification metrics** and **portfolio-based evaluation** (CR, Sharpe ratio, MDD, Hit Ratio).  
 
+⚠️ **Note**: The sentiment pipeline is simulated with random dummy data.  
+⚠️ **Note**: This repository is a demonstration of the implementation (code + protocol), not a deployable trading system.  
+
 ---
 
 ## ⚙️ Requirements  
