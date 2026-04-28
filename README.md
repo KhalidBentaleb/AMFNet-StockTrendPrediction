@@ -3,6 +3,9 @@
 Official implementation of **AMFNet**, as described in our work:  
 *Adaptive Modality Fusion Network for Stock Trend Prediction*  
 
+
+📄 Paper (IEEE Access): https://doi.org/10.1109/ACCESS.2025.3645089
+
 ---
 
 ## 📌 Overview  
